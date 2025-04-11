@@ -1,6 +1,6 @@
 ## Pre-requisites
 
-* TechSpecs - SQLlite, NodeJS mocroservices, Angular TypeScript, docker etc.
+* TechSpecs - SQLlite, Java SpringBoots microservices, docker etc.
 
 
 ## Features -
