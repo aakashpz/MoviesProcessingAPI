@@ -1,7 +1,7 @@
 # MoviesProcessingAPI
 
 
-<h2>Backend Local setup:</h2>
+<h2>Local setup:</h2>
 
 ```
 Step 1: Download or clone the source code to a local machine.
