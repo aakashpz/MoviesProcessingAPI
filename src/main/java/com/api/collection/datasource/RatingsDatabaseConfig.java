@@ -32,7 +32,7 @@ public class RatingsDatabaseConfig {
 	public DataSource dataSource() {
 		DriverManagerDataSource dataSource = new DriverManagerDataSource();
 		dataSource.setUrl(environment.getProperty("spring.secondary.datasource.url"));
-		dataSource.setDriverClassName(environment.getProperty("spring.secondary.datasource.driver-class-name"));
+		dataSource.setDriverClassName(environment.getProperty("spring.secondary.datasource.driverClassName"));
 		return dataSource;
 	}
 
